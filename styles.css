@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+}
+.content {
+    width: 420px;
+    height: 610px;
+    position: absolute;
+    margin: auto;
+    top: 30px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+}
+#header {
+    width: 420px;
+    height: 80px;
+}
+#img1 {
+    width: 30px;
+    height: 27px;
+    padding-left: 10px;
+    padding-top: 60px;
+    float: left;
+}
+img {
+    width: 420px;
+    height: 300px;
+}
+#bottoms {
+    width: 400px;
+    height: 40px;
+    margin: 10px;
+}
+#comments {
+    width: 400px;
+    height: 160px;
+    margin: 10px;
+}
+#bookmark {
+    float: right;
+    padding-right: 10px;
+}
+#dots {
+    float: right;
+    padding-right: 10px;
+    padding-top: 65px;
+}
+#texto {
+    width: 30px;
+    height: 27px;
+    padding-left: 5px;
+    padding-top: 40px;
+    float: left;
